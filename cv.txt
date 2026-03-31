@@ -1,0 +1,56 @@
+RICHARD OLUWATOMIWA ANDREW
+Backend Developer  •  AI & Automation Engineer  •  Python Specialist
++234 902 788 3012   |   richardtommyandrew@gmail.com   |   Nigeria (Open to Remote)
+github.com/DIttoSensei   |   my-portfolio-rouge-alpha-26.vercel.app   |   linkedin.com/in/richard-andrew-3315a7260
+PROFESSIONAL SUMMARY
+Results-driven Backend Developer and Computer Science graduate with 3+ years of experience building web applications, REST APIs, AI-powered pipelines, and automation systems using Python and Django. Demonstrated ability to independently conceive, build, and ship diverse projects spanning web development, AI integration, data automation, and security tooling. Comfortable working across the full development lifecycle from concept to deployment, with a strong bias toward clean architecture and autonomous systems.
+TECHNICAL SKILLS
+EXPERIENCE
+Freelance Backend Developer  |  Self-Employed (Freelancer.com, Discord, Facebook)
+March 2022 — Present
+Designed and delivered backend web applications and REST APIs for clients across multiple industries and platforms.
+Built Python automation scripts that reduced manual processing time and streamlined client workflows.
+Developed Django-based web apps with user authentication, admin dashboards, and database management.
+Managed full project lifecycle independently — from requirements and architecture through to deployment and support.
+Maintained consistent client satisfaction through clean code delivery, clear communication, and on-time project completion.
+EDUCATION
+BSc Computer Science  |  ESPAM Formation University, Cotonou, Benin Republic
+2022 — 2025
+Graduated with a Bachelor of Science in Computer Science covering algorithms, software engineering, data structures, networking, and systems design.
+Relocated from Nigeria to Benin Republic to pursue the programme full-time.
+Final year project: AI-Based Scam Email Detection System — a functional prototype using machine learning to classify fraudulent emails.
+SELECTED PROJECTS
+AI-Based Scam Email Detector
+Final year research project. A machine learning prototype that analyses email content and classifies messages as fraudulent or legitimate. Built with Python, trained on labelled datasets, and packaged as a usable web application.
+YouTube Automation Pipeline
+End-to-end automation system that generates video scripts using AI, synthesises voiceovers, merges audio with visuals, and uploads finished videos to YouTube on a daily schedule — fully hands-free.
+Post-to-LinkedIn Automation
+A scheduled Python script that generates niche-specific written content using AI and automatically posts to a LinkedIn profile daily via the LinkedIn API. Designed for consistent personal brand presence without manual effort.
+PDF Translator Web App
+A Django web application that accepts PDF uploads, extracts and summarises the content, translates it into Nigerian Pidgin English, and delivers a downloadable translated PDF to the user.
+Auto Tech Job Pipeline
+An automated job discovery and application pipeline that fetches remote tech listings from job board APIs, filters by criteria, tracks applications in a spreadsheet, and handles outreach — the project currently in active development.
+CodeWhisper — Message Encryptor
+A web-based encryption and decryption tool built around a custom-designed cipher algorithm. Users can encode sensitive messages and share decryption keys separately for secure communication.
+WHISPER — Web Messaging Server
+A real-time web server messaging application enabling anonymous or identified communication between users through a clean browser-based interface.
+HeartBoard
+An anonymous digital message board where users can write and share personal thoughts publicly without any identity attached. Built with a focus on simplicity and emotional openness.
+Student Portal
+A Django-based student payment and records portal with an admin management dashboard, role-based access control, and transaction history.
+Online Transaction Processing System
+A Django prototype for managing and processing financial transactions online, featuring a structured admin interface and transaction audit trail.
+Web Child Care Website
+A professional service website for a child care business, built with a clean UI, service listings, and contact/booking functionality.
+Channel Pilot
+A business-facing website built to showcase services, establish online presence, and drive client engagement for a commercial client.
+ADDITIONAL
+Languages: English (Fluent), Yoruba (Native)
+Strong remote collaboration skills developed across 3+ years of international freelance work.
+Self-directed builder — all projects conceived, architected, and shipped independently.
+Languages | Python, JavaScript, HTML, CSS, GDScript
+Frameworks | Django, Django REST Framework, Kivy, Tailwind CSS
+AI & Data | AI pipeline development, PDF extraction, data summarisation, LLM integration
+Automation | GitHub Actions, web scraping, scheduled workflows, API orchestration
+Tools | Git, GitHub, Playwright, Google Sheets API, Pandas, NumPy
+Security | Custom cipher implementation, message encryption/decryption, scam detection

@@ -1,0 +1,467 @@
+Himalayas logo
+Jobs
+Companies
+Community
+Talent
+Tools
+Salaries
+Pricing
+Advice
+Log in
+Post a job
+Sign up
+NA
+Managing Consultant SAP HANA Database (m/f/d)
+Save
+
+In a changing and evolving world, challenges are ever more unique and complex.
+
+Nagarro
+
+Employee count:
+5000+
+
+Germany only
+
+Stay safe on Himalayas
+
+Never send money to companies. Jobs on Himalayas will never require payment from applicants.
+
+Lead and deliver SAP HANA projects, including installations, upgrades, migrations, scale-up and scale-out scenarios
+Ensure stable, secure, and high-performing operation of large SAP HANA landscapes
+Act as a trusted advisor for customers and internal teams on SAP HANA architectures, on-premise and in the cloud (Azure, AWS, GCP)
+Analyze, review, and continuously improve operating concepts for SAP HANA databases and system landscapes
+Perform performance analysis and optimization, including table distribution and partitioning
+Design and operate high-availability and business continuity solutions based on SAP HANA System Replication
+Work with SUSE Linux Enterprise Server for SAP Applications, including HA Extension (Corosync & Pacemaker)
+Contribute to architectural decisions and best practices for modern SAP HANA deployments
+Several years of professional experience in SAP Basis and SAP HANA project environments, ideally with project lead responsibility
+Deep hands-on expertise in SAP HANA database architecture and operations, including scale-up and scale-out scenarios
+Strong knowledge of HANA hardware and deployment models (TDI, Appliance, physical and virtual environments)
+Solid understanding of datacenter operations, including OS-level administration (SLES for SAP) and storage mapping in TDI setups
+Proven experience with high-availability architectures, especially SAP HANA System Replication combined with SUSE HA Extension (Corosync/Pacemaker)
+Consulting mindset with the ability to communicate complex technical topics clearly to customers and stakeholders
+30 days of paid vacation, internal and external training opportunities, MyN – Nagarro Employee Share Program, attractive company car and company bicycle arrangements, company-funded accident insurance policy, modern office space at central locations with high-tech equipment, sports programs, access to the corporate benefits portal, free fruit and drinks.
+Plenty of room for innovation in a high-growth environment with the latest technologies and products. With us, you can get involved and make a difference.
+Flat hierarchies and a long-term, stable job with attractive development opportunities.
+
+We are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale — across all devices and digital mediums, and our people exist everywhere in the world (18000+ experts across 36 countries, to be exact). Our work culture is dynamic and non-hierarchical. We are looking for great new colleagues. That is where you come in!
+
+Nagarro's global SAP business unit is a leading IT full-service provider for critical business applications and complex ERP landscapes in digital transformation. With more than 1.000 employees, we are one of the most efficient and innovative SAP partners for medium-sized companies and enterprises with an international focus.
+
+Apply now
+Job expired?
+
+Please let Nagarro know you found this job on Himalayas. This helps us grow!
+
+Apply now
+About Nagarro
+
+Learn more about Nagarro and their company culture.
+
+View company profile
+
+In a changing and evolving world, challenges are ever more unique and complex. Nagarro (Frankfurt: NA9) helps to transform, adapt, and build new ways into the future through a forward thinking, agile and caring mindset. We excel at digital product engineering and deliver on our promise of thinking breakthroughs. Today, we are 8,400+ experts across 26 countries, forming a Nation of Nagarrians, ready to help our customers succeed.
+
+To be one of us is to embrace challenge, embody intelligence, and move quickly. It means you see technology as a means, but the end is always making an impact in our clients' most pressing challenges. We want you to feel empowered, be free to embrace your inner-entrepreneur, and drive to deliver solutions that you are proud of. This is what CARING is all about.
+
+We are shaping the company of tomorrow
+Challenging projects
+
+We create the solutions of tomorrow and are always thinking breakthroughs. Does this sound like you?
+
+Giving Back
+
+Our culture goes beyond work and we actively embrace the challenge of making the world a better place.
+
+Flat hierarchy
+
+We empower our colleagues to be brave, creative, entrepreneurial, agile and responsible.
+
+Education
+
+The world and technology are constantly evolving, we help you stay ahead of the curve. We want you to always learn and grow with us.
+
+Fun@Work
+
+We know that happy employees are healthier, more creative, and efficient. Having fun improves communication and collaboration. Fun is not a word we frown at, we enable it.
+
+Work-life
+
+Live to work or work to live? We do not ask you to decide. Yes, your work-life balance matters to us.
+
+More than a job, be a part of something bigger, and have fun doing it.
+
+Caring is at the heart of who we are, it makes us better colleagues, drives us to want excellence and connects us to Nagarro, transforms us into what we call a Nation of Nagarrians.
+
+The only certain thing is your starting point, the rest of the journey we build together. Caring for us means giving you the tools to succeed, the means to always learn more and the freedom to live your life without being worried about that appointment you have in the middle of the day. You are not an employee, you are our colleague and the journey starts here.
+
+Tech stack
+
+Learn about the tools and technologies that Nagarro uses to build, market, and sell its products.
+
+View tech stack
+
+Sass
+
+.NET
+
+Bootstrap
+
+JavaScript
+
+HTML5
+
+Java
+
+CSS 3
+
+C#
+
+ASP.NET
+
+XML
+
+TypeScript
+
+18 more
+
+Nagarro employees can create an account to update this tech stack.
+
+Employee benefits
+
+Learn about the employee benefits and perks provided at Nagarro.
+
+View benefits
+Paid vacation
+
+At least 3 weeks per year.
+
+Life insurance
+
+We'll cover your life insurance so you don't have to worry.
+
+Employee assistance program (EAP)
+
+We offer an employee assistance program focused on mental health.
+
+Healthcare insurance
+
+Medical, dental, and vision insurance for employees and dependents.
+
+View Nagarro's employee benefits
+Himalayas
+Remote companies
+Nagarro
+Managing Consultant SAP HANA Database (m/f/d)
+Apply now
+Job expired?
+
+Please let Nagarro know you found this job on Himalayas. This helps us grow!
+
+Apply now
+About the job
+Apply before
+May 28, 2026
+Posted on
+Mar 29, 2026
+Job type
+Full Time
+Experience level
+Senior
+Location requirements
+Suggest an edit
+Germany
+Hiring timezones
+Show UTC offsets
+Germany +/- 0 hours
+Job categories
+SAP Hana
+SAP BASIS
+SAP Consulting
+Database Administration
+SAP HANA Administration
+Skills
+SAP Hana
+SAP BASIS
+Corosync
+Pacemaker
+High Availability
+Azure
+AWS
+GCP
+SLES For SAP
+SUSE Linux Enterprise High Availability Extension
+Partitioning
+Dynamic
+Linux
+Make
+Browse similar jobs
+Remote Senior SAP-Hana Jobs
+Remote Full Time SAP-Hana Jobs
+Remote Senior SAP-Hana Jobs in Germany
+Remote Full Time Jobs in Germany
+Remote SAP-Hana Jobs in Germany
+NA
+Nagarro
+Company size
+
+5000+ employees
+
+Founded in
+
+1996
+
+Chief executive officer
+
+Manas Fuloria
+
+Markets
+Data Science
+Analytics
+Analytical Database
+Automation
+Technology
+Technology Consulting
+User Experience
+Product Innovation
+Employees live in
+Austria
+Germany
+India
+Mexico
+Poland
+Romania
+Sri Lanka
+United States
+View company profile
+Similar remote jobs
+
+Here are other jobs you might want to apply for.
+
+View all remote jobs
+View job
+BU
+AF, AL + 146 more
+Senior Database Administrator
+Bullhorn
+
+Employee count:
+1001-5000
+
+Full Time
+Senior Database Administrator
+View job
+NA
+Germany only
+(Senior) Consultant SAP HCM
+Natuvion
+
+Employee count:
+201-500
+
+Full Time
+Cross Industries & HCM
+View job
+PE
+BE, HR + 10 more
+MongoDB DBA
+Percona
+
+Employee count:
+201-500
+
+Full Time
+MongoDB Developer
+View job
+MF
+Germany only
+Senior Consultant / Senior Systems Specialist - Germany
+M-Files
+
+Employee count:
+501-1000
+
+Full Time
+Services
+View job
+PS
+Germany only
+System Engineer, Enterprise (Germany South)
+Pure Storage
+Full Time
+Sales Engineering
+View job
+SG
+Germany only
+Senior Consultant SAP Data & Analytics (Bundesweit, DE)
+Scheer GmbH
+
+Employee count:
+1001-5000
+
+Full Time
+SAP Consulting
+386 remote jobs at Nagarro
+
+Explore the variety of open remote roles at Nagarro, offering flexible work options across multiple disciplines and skill levels.
+
+View all jobs at Nagarro
+View job
+NA
+India only
+Principal Engineer
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+Information Technology
+View job
+NA
+Canada only
+Senior Staff Engineer
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+Software Engineering
+View job
+NA
+United States only
+Associate Engineer, QA Hybris
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+QA Engineering
+View job
+NA
+India only
+Senior Staff Engineer, Delivery ETIL
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+Staff Engineer
+View job
+NA
+India only
+Staff Engineer, Java
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+Java Development
+View job
+NA
+India only
+Associate Principal Engineer, IOT
+Nagarro
+
+Employee count:
+5000+
+
+Full Time
+IoT Engineering
+GL
+EU
+NS
+Top remote companies
+Remote companies like Nagarro
+
+Find your next opportunity by exploring profiles of companies that are similar to Nagarro. Compare culture, benefits, and job openings on Himalayas.
+
+View all companies
+View company
+GL
+125 jobs
+Grafana Labs
+Grafana Labs's
+Salaries
+Grafana Labs's
+Benefits
+Grafana Labs's
+Tech stack
+
+Query, visualize, alert on, and understand your data no matter where it’s stored.
+
+Data Visualization
+Business Intelligence
+View company
+EU
+2 jobs
+Euromonitor
+Euromonitor's
+Benefits
+Euromonitor's
+Tech stack
+
+Euromonitor International is a global market research company providing strategic intelligence, market analysis, and consumer insights across various industries and countries. Founded in 1972 and headquartered in London, the company offers data, analysis, and reports to support business decision-making.
+
+Market Research
+Business Intelligence
+View company
+NS
+Neova Solutions
+Neova Solutions's
+Benefits
+Neova Solutions's
+Tech stack
+
+Neova Solutions provides tailored IT solutions to meet the diverse needs of businesses, focusing on customer satisfaction and high-quality service.
+
+Software Development
+Cloud Computing
+View company
+NW
+Nuvolar Works
+Nuvolar Works's
+Benefits
+Nuvolar Works's
+Tech stack
+
+Nuvolar is a Salesforce Partner focused on digital transformation and development, with over 14 years of expertise.
+
+Salesforce Consulting
+CRM Solutions
+View company
+NI
+65 jobs
+N-iX
+N-iX's
+Benefits
+N-iX's
+Tech stack
+
+N-iX is a global software solutions and engineering services company that helps leading organizations turn challenges into lasting business value, operational efficiency, and revenue growth using advanced technology.
+
+Enterprise Software
+Software Development
+View company
+AG
+adorsys GmbH
+adorsys GmbH's
+Benefits
+adorsys GmbH's
+Tech stack
+
+adorsys is a German IT consulting company specializing in secure software engineering, digital finance, and AI for highly-regulated industries like banking and insurance.
+
+IT Consulting
+Financial Services
+Find your dream job
+
+Sign up now and join over 100,000 remote workers who receive personalized job alerts, curated job matches, and more for free!
+
+Sign up with Google
+Sign up

@@ -41,5 +41,10 @@ for key, value in cv.items():
     if key != "full_cv_text":
         print(f"{key}: {value}")
 
-print("\n--- FULL CV TEXT ---")
-print(cv["full_cv_text"])
+#print("\n--- FULL CV TEXT ---")
+#print(cv["full_cv_text"])
+
+with open("cv.txt", "w", encoding="utf-8") as f:
+    f.write(cv["full_cv_text"])
+
+print("CV saved to cv.txt")
